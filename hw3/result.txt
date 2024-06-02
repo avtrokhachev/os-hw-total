@@ -1,0 +1,6 @@
+(venv) avtrokhachev@i106040781 hw3 % ./main 5
+Fibonaci: 5
+Factorial: 120
+(venv) avtrokhachev@i106040781 hw3 % ./main 10
+Fibonaci: 55
+Factorial: 3628800

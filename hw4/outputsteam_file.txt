@@ -1,0 +1,3 @@
+Here was some text!
+It will be copied soon to another file!
+bye.

@@ -1,0 +1,21 @@
+(venv) avtrokhachev@i106040781 hw9 % ./main
+Child received message: Message 0 from parent to child!
+Parent received message: Message 0 from child to parent!
+Child received message: Message 1 from parent to child!
+Parent received message: Message 1 from child to parent!
+Child received message: Message 2 from parent to child!
+Parent received message: Message 2 from child to parent!
+Child received message: Message 3 from parent to child!
+Parent received message: Message 3 from child to parent!
+Child received message: Message 4 from parent to child!
+Parent received message: Message 4 from child to parent!
+Child received message: Message 5 from parent to child!
+Parent received message: Message 5 from child to parent!
+Child received message: Message 6 from parent to child!
+Parent received message: Message 6 from child to parent!
+Child received message: Message 7 from parent to child!
+Parent received message: Message 7 from child to parent!
+Child received message: Message 8 from parent to child!
+Parent received message: Message 8 from child to parent!
+Child received message: Message 9 from parent to child!
+Parent received message: Message 9 from child to parent!
